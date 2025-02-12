@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Mateusz Maciaszczyk
+# Hi there! 👋 I'm Mateusz Maciaszczyk
 
 🚀 **About Me:**  
 I'm a passionate developer who loves coding, open source, and building cool projects. I specialize in writing clean, efficient, and scalable code.
